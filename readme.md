@@ -20,7 +20,7 @@ As a fullstack developer, I've experienced the challenges of setting up 'react-b
 ## Authors
 
 - [@adziusmaster](https://github.com/adziusmaster)
-- Credits to [GitHub User1](https://github.com/GiovanniACamacho) and [GitHub User2](https://github.com/Meligy) for their contributions to the TypeScript version of StrictModeDroppable. You can find the original post [here](https://github.com/atlassian/react-beautiful-dnd/issues/2399#issuecomment-1175638194).
+- Credits to [GiovanniACamacho](https://github.com/GiovanniACamacho) and [Meligy](https://github.com/Meligy) for their contributions to the TypeScript version of StrictModeDroppable. You can find the original post [here](https://github.com/atlassian/react-beautiful-dnd/issues/2399#issuecomment-1175638194).
 
 ## Key Features
 
